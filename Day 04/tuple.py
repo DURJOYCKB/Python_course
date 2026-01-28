@@ -1,0 +1,13 @@
+tup = (1)
+tup1 = ("hello")
+tup2 = (1,)
+tup3 = ("hello",)
+
+print(tup)
+print(type(tup))
+print(tup1)
+print(type(tup1))
+print(tup2)
+print(type(tup2))
+print(tup3)
+print(type(tup3))
